@@ -1,11 +1,10 @@
 ########################### EDIT YOUR SETTINGS HERE
 # Site settings
+
 title: Kelly's ENG 7006 blog # give your site a title
 email: fx2446@wayne.edu # put your email address in here; optional
 # edit your site description; keep it brief
-description: > # this just means to ignore newlines until "baseurl:"
-  A student blog on media theory and practice.
-baseurl:  # the subpath of your site, e.g. /blog/; if unsure, leave this blank
+description: A student blog based in media theory and practice.
 url: http://kellypolasek.github.io # replace [username] with your github username (no brackets)
 github_username: kellypolasek # replace with your github username
 
