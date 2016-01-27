@@ -4,7 +4,7 @@ layout: post
 description: This is a brief post.
 categories: testing how-to-i-have-no-idea
 ---
-And then you can type in Markdown!!!
+And then you can type in Markdown!!
 
 *italic*
 **bold**
