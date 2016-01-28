@@ -1,0 +1,11 @@
+---
+title: Media Practice: A Retrospective on Weeks 1 & 2.
+layout: post
+description: I feel like I'm a kid again.
+categories: coding blog
+---
+The first two weeks of “media practice” have been unlike anything I’ve previously experienced. The type of thinking required to follow along with and attempt to master the simplest coding instructions is unlike anything I’ve done in at least the better part of a decade. Certain aspects of the lab have served as throwbacks to grade, middle, and high school, interestingly enough. Simply because of the set up in a computer lab, I recalled an eighth grade Computer Literacy course (mandatory), where we learned to use a word processor (!), and a tenth grade class, the title of which escapes me, which culminated with each student creating a ten-page Dreamweaver website. The combination of foresight and guess-and-check involved in plotting shapes in p5.js made me think of doing the same thing on graphing paper for math classes.
+
+The most vivid memory that these beginning weeks of coding has brought back to me, though, has been of when I moved to a new city in fifth grade and got thrown into the deep end of a typing class that my fellow students had been taking all of elementary school. I was so hopeless at using all ten fingers on the keyboard and memorizing the QWERTY system that I mentally checked out of each period. A classmate, who would end up becoming my very best friend, insisted that I **could not** go on typing monkey-style with just my index fingers if I wanted to get anywhere in life. Many frustrated hours spent after school at her house typing with my eyes closed later, I was pretty quick.
+
+I guess my point is, I’m not naturally drawn to/adept at learning new technological skills, and I can feel myself getting overwhelmed (as [Diana](http://dianarosenberger.github.io/blog/2016-01-27/week2-2ndpost.html) put it in her coding post) and wanting to give up at times during lab and while attempting to complete the dailies, but I’m prepared to be my own friendly, insistent buddy this time (and will try to be that for classmates who may share my struggles!) because I can imagine that a day is going to come when I can cruise along coding in Atom as quickly as I’m able to type.
