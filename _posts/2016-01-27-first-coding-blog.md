@@ -1,5 +1,5 @@
 ---
-title: Media Practice: A Retrospective on Weeks 1 & 2.
+title: "Media Practice: A Retrospective on Weeks 1 & 2."
 layout: post
 description: I feel like I'm a kid again.
 categories: coding blog
