@@ -1,5 +1,5 @@
 ---
-title: "The Typewriter" in McLuhan's *Understanding Media*
+title: "'The Typewriter' in McLuhan's *Understanding Media*"
 layout: post
 description: A medium equal parts practical and poetic.
 categories: reading blog
