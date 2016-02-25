@@ -1,0 +1,12 @@
+---
+title: Consistent Code
+layout: post
+description: Capitalization's gonna be the death of me.
+categories: coding blog
+---
+
+Today’s coding experience was a cold, wet one. [Diana](dianarosenberger.github.io) and I arrived at the computer lab in the English department soaked through and stinging from the cold sleet we’d walked through from Cass Café. [Aden](adenj86.github.io) was already in the lab, so we got down to business. The irony of it didn’t strike me until now, but the first thing we worked on was fixing the code for their fifth daily of the Bubbles sequence, and the shape at hand was…snow.
+
+We couldn’t figure out what had gone wrong in the code; the Java console pointed to something being undefined, but the code had worked before the words “Bubble” and “Bubblepit” had been changed to “Snow” and “Snowfall.” Finally, it turned out that we had had the same issue [Todd]( http://tbreijak.github.io/blog/2016-02-24/Keying-Up-a-Ball-As-a-Group-Effort.html) mentioned: “snow” was inconsistently capitalized throughout the code. A quick, yet frustrating fix.
+
+My major question coming out of our afternoon in the lab (during which we figured out how to meet the specs for the Keyed Up Ball daily) is about definitions and consistency. Why, in Bubbles and code related to it (including Snowfall), does capitalization affect everything but “bubble” can sometimes be “bubbles” (as in “numberOfBubbles”) and work? (Snow, being plural, remained “numberOfSnow.”) While working on the Keyed Up Ball, we reviewed the code Aden had figured out with [David]( http://davidlnowak.github.io/blog/2016-02-24/post-week6-coding.html) (who wrote a hilarious blog-opener, by the way) and Todd. There was a line underneath ‘this.position’ that was ‘this.movementStep’ and we couldn’t figure out where the term was coming from. We added ‘this.speed’ to our code instead—it seemed more intuitive—and the code was a success! Excellent. Still, we couldn’t figure out why it had worked. We replaced ‘speed’ with ‘movementStep’ so our code resembled Aden/David/Todd’s. It worked *again*. We replaced ‘movementStep’ with ‘objectMove’—we weren’t sure if perhaps ‘movementStep’ was a known word in the coding language, like ‘speed,’ but we were pretty sure our made-up word ‘objectMove’ wasn’t. It worked *again!* Can someone explain (and I know, I can’t believe I’m asking this) why our code was successful regardless of what we called this aspect? Shouldn’t we have had to define it (with “var movementStep/objectMove/speed = xxx”) somewhere first?
