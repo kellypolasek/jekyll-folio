@@ -2,6 +2,7 @@
 title: "Control, Control, Control"
 layout: post
 description: "If Protocol + Networks = Control and Networks + Users = Control, Then Protocol + Users = Control"
+categories: reading blog
 ---
 Though the term isn’t invoked by Deleuze or Galloway in this week’s readings, we are in Neoliberal Land for both authors’ discussions of power and control. I’m very much looking forward to taking in tomorrow’s seminar discussion as part of the Week-in-Review team—there are so many places to go from these texts. I’m really interested in [Joe’s]( http://joetorok.github.io/blog/2016-03-02/deleuze-galloway-discussion.html) point about anonymity, for one.
 
