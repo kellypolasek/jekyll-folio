@@ -2,7 +2,7 @@
 title: "Diana & Kelly's Makey Makey Design Document"
 layout: post
 description: "Pushing the limits of poetry and collective authorship"
-categories: projects, blogs
+categories: projects, blog
 ---
 **Goals**
 
